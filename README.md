@@ -2,6 +2,8 @@
 
 An end-to-end deep learning project that implements a custom Convolutional Neural Network (CNN) from scratch using **PyTorch** to classify images from the **CIFAR-10** dataset. The project includes complete pipelines for data preprocessing, model training, evaluation, automated testing, and an interactive web application built with **Gradio** for real-time image classification.
 
+
+![Project Demo](demo.png)
 ---
 
 # Project Overview & Features
